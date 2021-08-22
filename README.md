@@ -22,4 +22,6 @@ Me chamo Dasio Neto, mas pode me chamar de  **Neto**. Irei fazer um breve resumo
 ## 📨 Contatos
 
  - Me encontre no [LinkedIn](https://www.linkedin.com/in/dasio-neto-0606/) 
- - Se for mais fácil pode mandar um [email](dacvannucchi@gmail.com) também.
+ - Se for mais fácil pode mandar um e-mail também:
+ 
+ <a href="mailto:dacvannucchi@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
